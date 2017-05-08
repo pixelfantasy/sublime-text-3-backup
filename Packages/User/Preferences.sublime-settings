@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/krTheme.tmTheme",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"theme": "Soda Dark 3.sublime-theme",
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+}

@@ -1,0 +1,823 @@
+{
+	"folder_history":
+	[
+		"/Users/schuergk/Projekte/LOT/ant",
+		"/Users/schuergk/Desktop"
+	],
+	"last_version": 3126,
+	"last_window_id": 36,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1257.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "lo",
+				"selected_items":
+				[
+					[
+						"lo",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"hash",
+						"Hasher: SHA256"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"markdown",
+						"Build With: Markdown"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"ur",
+						"URL Decode"
+					],
+					[
+						"url",
+						"URL Encode"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"sha",
+						"Hasher: SHA256"
+					],
+					[
+						"hasher",
+						"Hasher: SHA256"
+					],
+					[
+						"gen",
+						"Generate long password"
+					],
+					[
+						"lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"p",
+						"Package Control: Remove Package"
+					],
+					[
+						"colo",
+						"Colorsublime: Browse Themes"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"encode",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/schuergk/Desktop/app_2017-05-03.sql",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/gutschein/htdocs/index.html",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/aktion1/htdocs/index.html",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.at/aktion1/htdocs/index.html",
+				"/Users/schuergk/Desktop/sf_reisen_com_2017-04-24.sql",
+				"/Users/schuergk/Downloads/README.md",
+				"/Users/schuergk/Projekte/it-comsys/docker-compose.yml",
+				"/Users/schuergk/Projekte/it-comsys/data/database-dump/app_2017-04-10.sql",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.md",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.txt",
+				"/Users/schuergk/Projekte/contao/README.md",
+				"/Volumes/bizhub_C3850_10910101011/Readme/german.txt",
+				"/Users/schuergk/Projekte/contao/docker-compose.yml",
+				"/Users/schuergk/Projekte/contao/web/app_dev.php",
+				"/Users/schuergk/Projekte/contao/docker-sync.yml",
+				"/Users/schuergk/Projekte/contao/docker-config/Dockerfile-php",
+				"/Users/schuergk/Projekte/backup/sonstiges/e-mail-templates/kunden-kommunikation-shop/html/kkm_template_abholauftrag_spedition.html",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Backend/tinymce.html.twig",
+				"/Users/schuergk/Desktop/intranet-master.lidl.net.crt",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/index.php",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/upload.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/StaticContentType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Lottery/edit.html.twig",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/LotteryConfigurationManagerType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/ContentType.php",
+				"/Users/schuergk/Desktop/pwd.html",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/new.html.twig",
+				"/Users/schuergk/Projekte/itcs/src/AppBundle/Form/TemplateType.php",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/index.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/help.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/edit.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/base.html.twig",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/Users/schuergk/Projekte/it-comsys/README.md",
+				"/Users/schuergk/Projekte/itcs/app/config/parameters.yml",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index 2.html",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/multiplechoice_iframe/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/backup/aurasma_mobile_normal/index.html",
+				"/Users/schuergk/Desktop/lottery_frontend_2017-03-13.sql",
+				"/Users/schuergk/Desktop/app_2017-03-09.sql",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/etc/pki/tls/cert.pem",
+				"/Users/schuergk/Desktop/punkte_zwischenzeugnis.txt",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/app/config/security.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-sync.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-compose.yml",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/index.html",
+				"/Users/schuergk/Desktop/lidl_gws_aegypten_v2/index_test.html",
+				"/Users/schuergk/Desktop/lidl-gewinnspiel-neu/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/lidl-gewinnspiel/htdocs/cronjob/lotteryTransferDataTest.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/recaptcha.php",
+				"/Users/schuergk/Desktop/ATT69457.htaccess",
+				"/Users/schuergk/Desktop/ATT26776.htaccess",
+				"/Users/schuergk/Desktop/lidl-email-font-demo-async.css",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2014/2014_10_Bewertung/template/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/index.html",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2017/2017_03_Bewertung/readme.md",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/reisenbewertung/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htpasswd",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/.htaccess",
+				"/Users/schuergk/Projekte/newsletter-forms-int/Vagrantfile",
+				"/Users/schuergk/Projekte/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/lottery/Vagrantfile",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/Vagrantfile",
+				"/Users/schuergk/Projekte/symfony-newsletter-forms/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-subscription-form/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/marketingtools/www/vendor/pdepend/pdepend/Vagrantfile",
+				"/Users/schuergk/Projekte/inxmail-api-examples/Vagrantfile",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/js/gewinnspiel.js",
+				"/Users/schuergk/.Trash/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/schuergk/Desktop/NL17Q1.csv",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/js/demo.js",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/css/startup.css"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"&#123;"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n",
+					"h3",
+					"h4",
+					"h2",
+					"h3",
+					"h4",
+					"(default\\('{{ )(.*?)( }}'\\))",
+					"(default\\('{{)(.*?)(}}'\\))",
+					"(default\\('{{)",
+					"(default\\(\\'{{)",
+					"(default\\(\\'\\{\\{)",
+					"(\\|default\\(\\'\\{\\{)",
+					"|default\\(\\'{{",
+					"|default(\\'{{",
+					"|default('{{",
+					"(\\|default\\(\\'\\{\\{)(.*?)(\\}\\}\\'\\))",
+					"(\\|default\\(\\'\\{\\{ )(.*?)( \\}\\}\\'\\))",
+					"(|default\\(\\'{{ )(.*?)( }}\\'\\))",
+					"container",
+					"Variable",
+					"default",
+					"{% if mailingTemplate.(.*?) is not defined %}{% verbatim %}{{ mailingTemplate.(.*?) }}{% endverbatim %}{% else %}{{ mailingTemplate.(.*?) }}{% endif %}",
+					"startTime",
+					"mailTemplate",
+					"mailingTemplate",
+					".jiraLink",
+					"mailTemplate",
+					"{{ (.*?) }}",
+					"{{",
+					"}",
+					"{",
+					"{{",
+					"&nbsp;",
+					"}}",
+					"{{",
+					"citrix",
+					"proxy",
+					"section"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$1example$3",
+					"$1example",
+					"$1example$3",
+					"{{ mailingTemplate.$1|default('{{ $1 }}') }}",
+					"{% if $1 is not defined %}{% verbatim %}{{ $1 }}{% endverbatim %}{% else %}{{ $1 }}{% endif %}",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 102.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1894.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/schuergk/Library/Application Support/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 20,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": ".cache"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "lo",
+				"selected_items":
+				[
+					[
+						"lo",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"hash",
+						"Hasher: SHA256"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"markdown",
+						"Build With: Markdown"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"ur",
+						"URL Decode"
+					],
+					[
+						"url",
+						"URL Encode"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"sha",
+						"Hasher: SHA256"
+					],
+					[
+						"hasher",
+						"Hasher: SHA256"
+					],
+					[
+						"gen",
+						"Generate long password"
+					],
+					[
+						"lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"p",
+						"Package Control: Remove Package"
+					],
+					[
+						"colo",
+						"Colorsublime: Browse Themes"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"encode",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/schuergk/Projekte/LOT/app/phpunit.xml.dist",
+				"/Users/schuergk/Projekte/LOT/app/phpunit-report.xml.dist",
+				"/Users/schuergk/Projekte/LOT/fabfile.py",
+				"/Users/schuergk/Projekte/LOT/build.xml",
+				"/Users/schuergk/Projekte/LOT/ant/extensions/test.xml",
+				"/Users/schuergk/Projekte/LOT/ant/extensions/build.xml",
+				"/Users/schuergk/Desktop/app_2017-05-03.sql",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/gutschein/htdocs/index.html",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/aktion1/htdocs/index.html",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.at/aktion1/htdocs/index.html",
+				"/Users/schuergk/Desktop/sf_reisen_com_2017-04-24.sql",
+				"/Users/schuergk/Downloads/README.md",
+				"/Users/schuergk/Projekte/it-comsys/docker-compose.yml",
+				"/Users/schuergk/Projekte/it-comsys/data/database-dump/app_2017-04-10.sql",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.md",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.txt",
+				"/Users/schuergk/Projekte/contao/README.md",
+				"/Volumes/bizhub_C3850_10910101011/Readme/german.txt",
+				"/Users/schuergk/Projekte/contao/docker-compose.yml",
+				"/Users/schuergk/Projekte/contao/web/app_dev.php",
+				"/Users/schuergk/Projekte/contao/docker-sync.yml",
+				"/Users/schuergk/Projekte/contao/docker-config/Dockerfile-php",
+				"/Users/schuergk/Projekte/backup/sonstiges/e-mail-templates/kunden-kommunikation-shop/html/kkm_template_abholauftrag_spedition.html",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Backend/tinymce.html.twig",
+				"/Users/schuergk/Desktop/intranet-master.lidl.net.crt",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/index.php",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/upload.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/StaticContentType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Lottery/edit.html.twig",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/LotteryConfigurationManagerType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/ContentType.php",
+				"/Users/schuergk/Desktop/pwd.html",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/new.html.twig",
+				"/Users/schuergk/Projekte/itcs/src/AppBundle/Form/TemplateType.php",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/index.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/help.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/edit.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/base.html.twig",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/Users/schuergk/Projekte/it-comsys/README.md",
+				"/Users/schuergk/Projekte/itcs/app/config/parameters.yml",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index 2.html",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/multiplechoice_iframe/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/backup/aurasma_mobile_normal/index.html",
+				"/Users/schuergk/Desktop/lottery_frontend_2017-03-13.sql",
+				"/Users/schuergk/Desktop/app_2017-03-09.sql",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/etc/pki/tls/cert.pem",
+				"/Users/schuergk/Desktop/punkte_zwischenzeugnis.txt",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/app/config/security.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-sync.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-compose.yml",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/index.html",
+				"/Users/schuergk/Desktop/lidl_gws_aegypten_v2/index_test.html",
+				"/Users/schuergk/Desktop/lidl-gewinnspiel-neu/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/lidl-gewinnspiel/htdocs/cronjob/lotteryTransferDataTest.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/recaptcha.php",
+				"/Users/schuergk/Desktop/ATT69457.htaccess",
+				"/Users/schuergk/Desktop/ATT26776.htaccess",
+				"/Users/schuergk/Desktop/lidl-email-font-demo-async.css",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2014/2014_10_Bewertung/template/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/index.html",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2017/2017_03_Bewertung/readme.md",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/reisenbewertung/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htpasswd",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/.htaccess",
+				"/Users/schuergk/Projekte/newsletter-forms-int/Vagrantfile",
+				"/Users/schuergk/Projekte/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/lottery/Vagrantfile",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/Vagrantfile",
+				"/Users/schuergk/Projekte/symfony-newsletter-forms/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-subscription-form/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/marketingtools/www/vendor/pdepend/pdepend/Vagrantfile",
+				"/Users/schuergk/Projekte/inxmail-api-examples/Vagrantfile",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/js/gewinnspiel.js",
+				"/Users/schuergk/.Trash/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/schuergk/Desktop/NL17Q1.csv",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/js/demo.js",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/css/startup.css"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"&#123;"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"</td>",
+					"                                <td>",
+					"\n",
+					"h3",
+					"h4",
+					"h2",
+					"h3",
+					"h4",
+					"(default\\('{{ )(.*?)( }}'\\))",
+					"(default\\('{{)(.*?)(}}'\\))",
+					"(default\\('{{)",
+					"(default\\(\\'{{)",
+					"(default\\(\\'\\{\\{)",
+					"(\\|default\\(\\'\\{\\{)",
+					"|default\\(\\'{{",
+					"|default(\\'{{",
+					"|default('{{",
+					"(\\|default\\(\\'\\{\\{)(.*?)(\\}\\}\\'\\))",
+					"(\\|default\\(\\'\\{\\{ )(.*?)( \\}\\}\\'\\))",
+					"(|default\\(\\'{{ )(.*?)( }}\\'\\))",
+					"container",
+					"Variable",
+					"default",
+					"{% if mailingTemplate.(.*?) is not defined %}{% verbatim %}{{ mailingTemplate.(.*?) }}{% endverbatim %}{% else %}{{ mailingTemplate.(.*?) }}{% endif %}",
+					"startTime",
+					"mailTemplate",
+					"mailingTemplate",
+					".jiraLink",
+					"mailTemplate",
+					"{{ (.*?) }}",
+					"{{",
+					"}",
+					"{",
+					"{{",
+					"&nbsp;",
+					"}}",
+					"{{",
+					"citrix",
+					"proxy",
+					"section"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$1example$3",
+					"$1example",
+					"$1example$3",
+					"{{ mailingTemplate.$1|default('{{ $1 }}') }}",
+					"{% if $1 is not defined %}{% verbatim %}{{ $1 }}{% endverbatim %}{% else %}{{ $1 }}{% endif %}",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/schuergk/Library/Application Support/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"auto_name": ".cache",
+									"syntax": "Packages/Theme - SoDaReloaded/settings/langs/Git.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 102.0
+			},
+			"pinned_build_system": "",
+			"position": "0 333 78 1894 1279 0 0 2560 1417 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

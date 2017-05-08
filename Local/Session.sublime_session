@@ -1,0 +1,932 @@
+{
+	"folder_history":
+	[
+		"/Users/schuergk/Desktop"
+	],
+	"last_version": 3126,
+	"last_window_id": 35,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 851.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "lore",
+				"selected_items":
+				[
+					[
+						"lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"hash",
+						"Hasher: SHA256"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"markdown",
+						"Build With: Markdown"
+					],
+					[
+						"lo",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"ur",
+						"URL Decode"
+					],
+					[
+						"url",
+						"URL Encode"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"sha",
+						"Hasher: SHA256"
+					],
+					[
+						"hasher",
+						"Hasher: SHA256"
+					],
+					[
+						"gen",
+						"Generate long password"
+					],
+					[
+						"lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"p",
+						"Package Control: Remove Package"
+					],
+					[
+						"colo",
+						"Colorsublime: Browse Themes"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"encode",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/schuergk/Desktop/sf_reisen_com_2017-04-24.sql",
+				"/Users/schuergk/Downloads/README.md",
+				"/Users/schuergk/Projekte/it-comsys/docker-compose.yml",
+				"/Users/schuergk/Projekte/it-comsys/data/database-dump/app_2017-04-10.sql",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.md",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.txt",
+				"/Users/schuergk/Projekte/contao/README.md",
+				"/Volumes/bizhub_C3850_10910101011/Readme/german.txt",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.at/aktion1/htdocs/index.html",
+				"/Users/schuergk/Projekte/contao/docker-compose.yml",
+				"/Users/schuergk/Projekte/contao/web/app_dev.php",
+				"/Users/schuergk/Projekte/contao/docker-sync.yml",
+				"/Users/schuergk/Projekte/contao/docker-config/Dockerfile-php",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/aktion1/htdocs/index.html",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/gutschein/htdocs/index.html",
+				"/Users/schuergk/Projekte/backup/sonstiges/e-mail-templates/kunden-kommunikation-shop/html/kkm_template_abholauftrag_spedition.html",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Backend/tinymce.html.twig",
+				"/Users/schuergk/Desktop/intranet-master.lidl.net.crt",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/index.php",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/upload.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/StaticContentType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Lottery/edit.html.twig",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/LotteryConfigurationManagerType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/ContentType.php",
+				"/Users/schuergk/Desktop/pwd.html",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/new.html.twig",
+				"/Users/schuergk/Projekte/itcs/src/AppBundle/Form/TemplateType.php",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/index.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/help.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/edit.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/base.html.twig",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/Users/schuergk/Projekte/it-comsys/README.md",
+				"/Users/schuergk/Projekte/itcs/app/config/parameters.yml",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index 2.html",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/multiplechoice_iframe/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/backup/aurasma_mobile_normal/index.html",
+				"/Users/schuergk/Desktop/lottery_frontend_2017-03-13.sql",
+				"/Users/schuergk/Desktop/app_2017-03-09.sql",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/etc/pki/tls/cert.pem",
+				"/Users/schuergk/Desktop/punkte_zwischenzeugnis.txt",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/app/config/security.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-sync.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-compose.yml",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/index.html",
+				"/Users/schuergk/Desktop/lidl_gws_aegypten_v2/index_test.html",
+				"/Users/schuergk/Desktop/lidl-gewinnspiel-neu/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/lidl-gewinnspiel/htdocs/cronjob/lotteryTransferDataTest.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/recaptcha.php",
+				"/Users/schuergk/Desktop/ATT69457.htaccess",
+				"/Users/schuergk/Desktop/ATT26776.htaccess",
+				"/Users/schuergk/Desktop/lidl-email-font-demo-async.css",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2014/2014_10_Bewertung/template/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/index.html",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2017/2017_03_Bewertung/readme.md",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/reisenbewertung/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htpasswd",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/.htaccess",
+				"/Users/schuergk/Projekte/newsletter-forms-int/Vagrantfile",
+				"/Users/schuergk/Projekte/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/lottery/Vagrantfile",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/Vagrantfile",
+				"/Users/schuergk/Projekte/symfony-newsletter-forms/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-subscription-form/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/marketingtools/www/vendor/pdepend/pdepend/Vagrantfile",
+				"/Users/schuergk/Projekte/inxmail-api-examples/Vagrantfile",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/js/gewinnspiel.js",
+				"/Users/schuergk/.Trash/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/schuergk/Desktop/NL17Q1.csv",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/js/demo.js",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/css/startup.css"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"&#123;"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"h3",
+					"h4",
+					"h2",
+					"h3",
+					"h4",
+					"(default\\('{{ )(.*?)( }}'\\))",
+					"(default\\('{{)(.*?)(}}'\\))",
+					"(default\\('{{)",
+					"(default\\(\\'{{)",
+					"(default\\(\\'\\{\\{)",
+					"(\\|default\\(\\'\\{\\{)",
+					"|default\\(\\'{{",
+					"|default(\\'{{",
+					"|default('{{",
+					"(\\|default\\(\\'\\{\\{)(.*?)(\\}\\}\\'\\))",
+					"(\\|default\\(\\'\\{\\{ )(.*?)( \\}\\}\\'\\))",
+					"(|default\\(\\'{{ )(.*?)( }}\\'\\))",
+					"container",
+					"Variable",
+					"default",
+					"{% if mailingTemplate.(.*?) is not defined %}{% verbatim %}{{ mailingTemplate.(.*?) }}{% endverbatim %}{% else %}{{ mailingTemplate.(.*?) }}{% endif %}",
+					"startTime",
+					"mailTemplate",
+					"mailingTemplate",
+					".jiraLink",
+					"mailTemplate",
+					"{{ (.*?) }}",
+					"{{",
+					"}",
+					"{",
+					"{{",
+					"&nbsp;",
+					"}}",
+					"{{",
+					"citrix",
+					"proxy",
+					"section"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$1example$3",
+					"$1example",
+					"$1example$3",
+					"{{ mailingTemplate.$1|default('{{ $1 }}') }}",
+					"{% if $1 is not defined %}{% verbatim %}{{ $1 }}{% endverbatim %}{% else %}{{ $1 }}{% endif %}",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 102.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\"/>\n    <!--[if IE ]>\n    <link rel=\"shortcut icon\" href=\"imgs/favicon.ico\">\n    <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n    <meta charset=\"utf-8\"/>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta http-equiv=\"content-script-type\" content=\"text/javascript\" />\n    <meta http-equiv=\"content-style-type\" content=\"text/css\" />\n    <meta http-equiv=\"content-language\" content=\"de\" />\n    <meta http-equiv=\"imagetoolbar\" content=\"no\" />\n    <meta http-equiv=\"pragma\" content=\"no-cache\" />\n    <meta http-equiv=\"cache-control\" content=\"no-cache\" />\n    <meta http-equiv=\"expires\" content=\"0\" />\n    <meta name=\"description\" content=\"Sichern Sie sich jetzt attraktive Foto Gutscheine und aktuelle Gutscheincodes für Fotobücher, Fotokalender und Abzüge. Sparen Sie beim Lidl Fotoservice!\" />\n    <meta name=\"keywords\" content=\"Gutschein, Foto Gutschein, Gutschein Lidl Fotos\" />\n    <meta name=\"language\" content=\"deutsch,de\" />\n    <meta name=\"distribution\" content=\"global\" />\n    <meta name=\"robots\" content=\"index,follow\" />\n    <meta name=\"revisit-after\" content=\"30 days\" />\n    <meta name=\"author\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta name=\"publisher\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta name=\"copyright\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <title>Gutscheine für den Lidl Fotoservice - jetzt Gutscheincode einlösen</title>\n    <link href=\"css/layout.css\" rel=\"stylesheet\" media=\"screen\" type=\"text/css\"/>\n    <meta name=\"robots\" content=\"noindex, nofollow\"/>\n    <meta content=\"minimum-scale=1.0, width=device-width, initial-scale=1, user-scalable=no\" name=\"viewport\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n    <link rel=\"icon\" href=\"imgs/favicon.png\">\n</head>\n\n<body>\n<!-- BEGIN etracker Tracklet 3.0 -->\n<script type=\"text/javascript\">document.write(String.fromCharCode(60)+\"script type=\\\"text/javascript\\\" src=\\\"http\"+(\"https:\"==document.location.protocol?\"s\":\"\")+\"://code.etracker.com/t.js?et=TFxKem\\\">\"+String.fromCharCode(60)+\"/script>\");</script>\n<script type=\"text/javascript\">_etc();</script>\n<noscript><p><a href=\"http://www.etracker.com\"><img style=\"border:0px;\" alt=\"\" src=\"https://www.etracker.com/nscnt.php?et=TFxKem\" /></a></p></noscript>\n<!-- etracker CODE END -->\n<div class=\"wrapper\">\n    <!--\n    <header>\n        <a href=\"index.html\" class=\"logo\">\n            <img src=\"imgs/lidl-logo.png\" alt=\"Lidl\"/>\n            <b>Einfach gute Fotos</b>\n        </a>\n    </header>\n    -->\n\n    <section class=\"content\">\n        <div class=\"hero\">\n            <a href=\"http://www.lidl-fotos.de/foto-alu-dibond-20x30-glaenzend\">\n                <img src=\"imgs/lidl_fotos_1.jpg\" alt=\"Aktion\"/>\n            </a>\n        </div>\n        <div class=\"head r\">\n            <div class=\"c-4\">\n                Online bestellen\n            </div>\n            <div class=\"c-2\">\n                oder\n            </div>\n            <div class=\"c-4\">\n                GRATIS Bestellsoftware nutzen!\n            </div>\n            <a href=\"http://www.lidl-fotos.de\" class=\"c-5\">\n                <img src=\"imgs/lidl-fotos-2.jpg\" alt=\"Online bestellen - Lidl-Fotos.de\"/>\n            </a>\n            <a href=\"http://www.lidl-fotos.de/lidl-fotos-bestellsoftware\" class=\"c-5\">\n                <img src=\"imgs/lidl-fotos-3.jpg\" alt=\"Gratis Bestellsoftware - Lidl-Fotos.de\"/>\n            </a>\n\n            <section class=\"c-10 maintext\">\n                <h1>Lidl Fotoservice bietet regelmäßig Gutscheine und Aktionen</h1>\n                <p class=\"seotext\">Der <strong>Lidl Fotoservice</strong> bietet sämtliche Dienstleistungen rund um\n                    das Thema Foto. Ob <a href=\"http://www.lidl-fotos.de/Abzuege-Poster\" target=\"_blank\">professionelle\n                        Fotoabzüge</a>, <a href=\"http://www.lidl-fotos.de/Fotobuecher\" target=\"_blank\">hochwertige\n                        Fotobücher</a>, <a href=\"http://www.lidl-fotos.de/Foto-Grusskarten\" target=\"_blank\">kreative\n                        Grußkarten</a> oder <a href=\"http://www.lidl-fotos.de/Leinwand-Maxi-Formate\" target=\"_blank\">kunstvolle\n                        Fotoleinwände</a>. Unser Fotoservice bietet darüber hinaus Fotokalender und Fotogeschenke für\n                    jeden Anlass. Lassen Sie Ihrer Kreativität freien Lauf und bestellen Sie Fotoabzüge, günstige\n                    Fotobücher oder Fotoposter künftig schnell und bequem online bei Lidl Fotos.</p>\n\n                <h2>Gutscheine für den Lidl Fotoservice</h2>\n                <p class=\"seotext\">Jeden Monat bietet der <a href=\"http://www.lidl-fotos.de/\" target=\"_blank\">Lidl\n                    Fotoservice</a> darüber hinaus einen attraktiven <strong>Gutschein</strong> oder eine unschlagbare\n                    <strong>Foto Aktion</strong> für noch mehr Sparpotential. Entdecken Sie unsere <strong>Fotobuch\n                        Gutscheine</strong>, Aktionen sowie <strong>Gutscheincodes für kostenlose Abzüge</strong> oder\n                    einen enormen Preisnachlass. So können Sie ein <strong>günstiges Fotobuch online bestellen</strong>\n                    ohne Verzicht auf Qualität und brillante Farben. Lassen Sie bei uns beispielsweise Urlaubsfotos\n                    online entwickeln und erhalten diese innerhalb weniger Tage in bester Qualität direkt nach Hause.\n                    <br/><br/>\n                    Gestalten Sie Ihre <a href=\"http://www.lidl-fotos.de/Abzuege-Poster\" target=\"_blank\">Fotoabzüge</a>,\n                    Ihren <a href=\"http://www.lidl-fotos.de/Foto-Kalender\" target=\"_blank\">Fotokalender</a> oder Ihr <a\n                            href=\"http://www.lidl-fotos.de/\" target=\"_blank\">Hardcover Fotobuch</a> schnell und einfach\n                    mit Hilfe der Bestellsoftware, welche Sie natürlich kostenfrei bei uns downloaden können.\n                    Verschönern Sie Ihr <strong>günstiges Fotobuch</strong> zusätzlich mit eigenen Texten, Hintergründen\n                    und abwechslungsreichen Designs. Dank der zahlreichen Formatvorlagen, welche in unserem Fotoservice\n                    hinterlegt sind, gelingt Ihnen die Erstellung im Handumdrehen. Darüber hinaus glänzt dieses durch\n                    Persönlichkeit und Individualität. So erhält Ihr Fotobuch eine persönliche Note und lässt die\n                    Erinnerungen immer wieder neu aufleben. Das Produktportfolio vom Lidl Fotoservice umfasst neben\n                    Fotobüchern auch Fotogeschenke, Fotokalender sowie Fotoleinwände. Unsere Leinwände erhalten Sie auch\n                    hinter Acryl-Glas oder auf hochwertigen Forex-Platten.\n                    <br/><br/>\n                    Sichern Sie sich jetzt unseren <strong>attraktiven Gutschein</strong> für den Lidl Fotoservice.\n                    Geben Sie den Gutscheincode an der vorgegebenen Stelle im Bestellprozess ein und sparen Sie bares\n                    Geld während unseren Fotoaktionen. Schauen Sie jetzt direkt auf Lidl Fotos vorbei und überzeugen Sie\n                    sich von der vielfältigen Auswahl an Fotogeschenken, Fotobücher und Fotokalender. Und denken Sie\n                    daran den Gutschein während des Bestellprozesses direkt bei unserem Fotoservice einzulösen. Lidl\n                    Fotos sorgt für günstige und kreative Fotogeschenke.</p>\n            </section>\n    </section>\n\n    <footer>\n        <ul>\n            <li><a href=\"http://www.lidl-fotos.de/cmImprint.do\" class=\"blank\">Impressum</a></li>\n            <li><a href=\"http://www.lidl-fotos.de/cmPrivacyPolicy.do\" class=\"blank\">Datenschutz</a></li>\n        </ul>\n    </footer>\n\n</div>\n\n<script src=\"http://lidlretargeting.adspirit.de/adrtpiggy.php?pid=43&type=1\" type=\"text/javascript\" language=\"JavaScript\"></script>\n<noscript><iframe width=\"1\" height=\"2\" noresize=\"noresize\" scrolling=\"no\"\n                  frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"\n                  src=\"http://lidlretargeting.adspirit.de/adrtpiggy.php?pid=43&type=2\"\n                  ALLOWTRANSPARENCY=\"true\"></iframe></noscript>\n<!-- Google Tag Manager -->\n<noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-NJJRL4\"\n                  height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NJJRL4');</script>\n<!-- End Google Tag Manager -->\n</body>\n</html>\n",
+					"file": "/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/gutschein/htdocs/index.html",
+					"file_size": 8987,
+					"file_write_time": 131381803490000000,
+					"settings":
+					{
+						"buffer_size": 8933,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\"/>\n    <!--[if IE ]>\n    <link rel=\"shortcut icon\" href=\"imgs/favicon.ico\">\n    <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n    <meta charset=\"utf-8\"/>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta http-equiv=\"content-script-type\" content=\"text/javascript\" />\n    <meta http-equiv=\"content-style-type\" content=\"text/css\" />\n    <meta http-equiv=\"content-language\" content=\"de\" />\n    <meta http-equiv=\"imagetoolbar\" content=\"no\" />\n    <meta http-equiv=\"pragma\" content=\"no-cache\" />\n    <meta http-equiv=\"cache-control\" content=\"no-cache\" />\n    <meta http-equiv=\"expires\" content=\"0\" />\n    <meta name=\"description\" content=\"Sichern Sie sich jetzt attraktive Foto Gutscheine und aktuelle Gutscheincodes für Fotobücher, Fotokalender und Abzüge. Sparen Sie beim Lidl Fotoservice!\" />\n    <meta name=\"keywords\" content=\"Gutschein, Foto Gutschein, Gutschein Lidl Fotos\" />\n    <meta name=\"language\" content=\"deutsch,de\" />\n    <meta name=\"distribution\" content=\"global\" />\n    <meta name=\"robots\" content=\"index,follow\" />\n    <meta name=\"revisit-after\" content=\"30 days\" />\n    <meta name=\"author\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta name=\"publisher\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta name=\"copyright\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n    <title>Gutscheine für den Lidl Fotoservice - jetzt Gutscheincode einlösen</title>\n    <link href=\"css/layout.css\" rel=\"stylesheet\" media=\"screen\" type=\"text/css\"/>\n    <meta name=\"robots\" content=\"noindex, nofollow\"/>\n    <meta content=\"minimum-scale=1.0, width=device-width, initial-scale=1, user-scalable=no\" name=\"viewport\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n    <link rel=\"icon\" href=\"imgs/favicon.png\">\n</head>\n\n<body>\n<!-- BEGIN etracker Tracklet 3.0 -->\n<script type=\"text/javascript\">document.write(String.fromCharCode(60)+\"script type=\\\"text/javascript\\\" src=\\\"http\"+(\"https:\"==document.location.protocol?\"s\":\"\")+\"://code.etracker.com/t.js?et=TFxKem\\\">\"+String.fromCharCode(60)+\"/script>\");</script>\n<script type=\"text/javascript\">_etc();</script>\n<noscript><p><a href=\"http://www.etracker.com\"><img style=\"border:0px;\" alt=\"\" src=\"https://www.etracker.com/nscnt.php?et=TFxKem\" /></a></p></noscript>\n<!-- etracker CODE END -->\n<div class=\"wrapper\">\n\n    <!--\n    <header>\n        <a href=\"index.html\" class=\"logo\">\n            <img src=\"imgs/lidl-logo.png\" alt=\"Lidl\"/>\n            <b>Einfach gute Fotos</b>\n        </a>\n    </header>\n    -->\n\n    <section class=\"content\">\n        <div class=\"hero\">\n            <a href=\"http://www.lidl-fotos.de/hardcover-fotobuch-a4-hoch\">\n                <img src=\"imgs/lidl_fotos_1.jpg\" alt=\"Aktion\"/>\n            </a>\n        </div>\n        <div class=\"head r\">\n            <div class=\"c-4\">\n                Online bestellen\n            </div>\n            <div class=\"c-2\">\n                oder\n            </div>\n            <div class=\"c-4\">\n                GRATIS Bestellsoftware nutzen!\n            </div>\n            <a href=\"http://www.lidl-fotos.de\" class=\"c-5\">\n                <img src=\"imgs/lidl-fotos-2.jpg\" alt=\"Online bestellen - Lidl-Fotos.de\"/>\n            </a>\n            <a href=\"http://www.lidl-fotos.de/lidl-fotos-bestellsoftware\" class=\"c-5\">\n                <img src=\"imgs/lidl-fotos-3.jpg\" alt=\"Gratis Bestellsoftware - Lidl-Fotos.de\"/>\n            </a>\n    </section>\n\n    <footer>\n        <ul>\n            <li><a href=\"http://www.lidl-fotos.de/cmImprint.do\" class=\"blank\">Impressum</a></li>\n            <li><a href=\"http://www.lidl-fotos.de/cmPrivacyPolicy.do\" class=\"blank\">Datenschutz</a></li>\n        </ul>\n    </footer>\n\n</div>\n\n<script src=\"http://lidlretargeting.adspirit.de/adrtpiggy.php?pid=43&type=1\" type=\"text/javascript\" language=\"JavaScript\"></script>\n<noscript><iframe width=\"1\" height=\"2\" noresize=\"noresize\" scrolling=\"no\"\n                  frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"\n                  src=\"http://lidlretargeting.adspirit.de/adrtpiggy.php?pid=43&type=2\"\n                  ALLOWTRANSPARENCY=\"true\"></iframe></noscript>\n<!-- Google Tag Manager -->\n<noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-NJJRL4\"\n                  height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NJJRL4');</script>\n<!-- End Google Tag Manager -->\n</body>\n</html>\n",
+					"file": "/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/aktion1/htdocs/index.html",
+					"file_size": 4985,
+					"file_write_time": 131381803910000000,
+					"settings":
+					{
+						"buffer_size": 4980,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\"/>\n    <!--[if IE ]>\n    <link rel=\"shortcut icon\" href=\"imgs/favicon.ico\">\n    <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n    <meta charset=\"utf-8\"/>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <meta http-equiv=\"content-script-type\" content=\"text/javascript\" />\n    <meta http-equiv=\"content-style-type\" content=\"text/css\" />\n    <meta http-equiv=\"content-language\" content=\"de\" />\n    <meta http-equiv=\"imagetoolbar\" content=\"no\" />\n    <meta http-equiv=\"pragma\" content=\"no-cache\" />\n    <meta http-equiv=\"cache-control\" content=\"no-cache\" />\n    <meta http-equiv=\"expires\" content=\"0\" />\n    <meta name=\"description\" content=\"Sichern Sie sich jetzt attraktive Foto Gutscheine und aktuelle Gutscheincodes für Fotobücher, Fotokalender und Abzüge. Sparen Sie beim Lidl Fotoservice!\" />\n    <meta name=\"keywords\" content=\"Gutschein, Foto Gutschein, Gutschein Lidl Fotos\" />\n    <meta name=\"language\" content=\"deutsch,de\" />\n    <meta name=\"distribution\" content=\"global\" />\n    <meta name=\"robots\" content=\"index,follow\" />\n    <meta name=\"revisit-after\" content=\"30 days\" />\n    <meta name=\"author\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta name=\"publisher\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta name=\"copyright\" content=\"Lidl E-Commerce International GmbH &amp; Co. KG\" />\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n    <title>Gutscheine für den Lidl Fotoservice - jetzt Gutscheincode einlösen</title>\n    <link href=\"css/layout.css\" rel=\"stylesheet\" media=\"screen\" type=\"text/css\"/>\n    <meta name=\"robots\" content=\"noindex, nofollow\"/>\n    <meta content=\"minimum-scale=1.0, width=device-width, initial-scale=1, user-scalable=no\" name=\"viewport\">\n    <meta name=\"format-detection\" content=\"telephone=no\">\n    <link rel=\"icon\" href=\"imgs/favicon.png\">\n</head>\n\n<body>\n<!-- BEGIN etracker Tracklet 3.0 -->\n<script type=\"text/javascript\">document.write(String.fromCharCode(60)+\"script type=\\\"text/javascript\\\" src=\\\"http\"+(\"https:\"==document.location.protocol?\"s\":\"\")+\"://code.etracker.com/t.js?et=TFxKem\\\">\"+String.fromCharCode(60)+\"/script>\");</script>\n<script type=\"text/javascript\">_etc();</script>\n<noscript><p><a href=\"http://www.etracker.com\"><img style=\"border:0px;\" alt=\"\" src=\"https://www.etracker.com/nscnt.php?et=TFxKem\" /></a></p></noscript>\n<!-- etracker CODE END -->\n<div class=\"wrapper\">\n    <!--\n    <header>\n        <a href=\"index.html\" class=\"logo\">\n            <img src=\"imgs/lidl-logo.png\" alt=\"Lidl\"/>\n            <b>Einfach gute Fotos</b>\n        </a>\n    </header>\n    -->\n\n    <section class=\"content\">\n        <div class=\"hero\">\n            <a href=\"http://www.lidl-fotos.at/fotobuecher\">\n                <img src=\"imgs/lidl_fotos_1.jpg\" alt=\"Aktion\"/>\n            </a>\n        </div>\n        <div class=\"head r\">\n            <div class=\"c-4\">\n                Online bestellen\n            </div>\n            <div class=\"c-2\">\n                oder\n            </div>\n            <div class=\"c-4\">\n                GRATIS Bestellsoftware nutzen!\n            </div>\n            <a href=\"http://www.lidl-fotos.at\" class=\"c-5\">\n                <img src=\"imgs/lidl-fotos-2.jpg\" alt=\"Online bestellen - Lidl-Fotos.at\"/>\n            </a>\n            <a href=\"http://www.lidl-fotos.at/lidl-fotos-bestellsoftware\" class=\"c-5\">\n                <img src=\"imgs/lidl-fotos-3.jpg\" alt=\"Gratis Bestellsoftware - Lidl-Fotos.at\"/>\n            </a>\n\n            <section class=\"c-10 maintext\">\n                <h1>Lidl Fotoservice bietet regelmäßig Gutscheine und Aktionen</h1>\n                <p class=\"seotext\">Der <strong>Lidl Fotoservice</strong> bietet sämtliche Dienstleistungen rund um\n                    das Thema Foto. Ob <a href=\"http://www.lidl-fotos.at/fotos-entwickeln\" target=\"_blank\">professionelle\n                        Fotoabzüge</a>, <a href=\"http://www.lidl-fotos.at/fotobuecher\" target=\"_blank\">hochwertige\n                        Fotobücher</a>, <a href=\"http://www.lidl-fotos.at/fotogrusskarten\" target=\"_blank\">kreative\n                        Grußkarten</a> oder <a href=\"http://www.lidl-fotos.at/wanddekoration\" target=\"_blank\">kunstvolle\n                        Fotoleinwände</a>. Unser Fotoservice bietet darüber hinaus Fotokalender und Fotogeschenke für\n                    jeden Anlass. Lassen Sie Ihrer Kreativität freien Lauf und bestellen Sie Fotoabzüge, günstige\n                    Fotobücher oder Fotoposter künftig schnell und bequem online bei Lidl Fotos.</p>\n\n                <h2>Gutscheine für den Lidl Fotoservice</h2>\n                <p class=\"seotext\">Jeden Monat bietet der <a href=\"http://www.lidl-fotos.at/\" target=\"_blank\">Lidl\n                    Fotoservice</a> darüber hinaus einen attraktiven <strong>Gutschein</strong> oder eine unschlagbare\n                    <strong>Foto Aktion</strong> für noch mehr Sparpotential. Entdecken Sie unsere <strong>Fotobuch\n                        Gutscheine</strong>, Aktionen sowie <strong>Gutscheincodes für kostenlose Abzüge</strong> oder\n                    einen enormen Preisnachlass. So können Sie ein <strong>günstiges Fotobuch online bestellen</strong>\n                    ohne Verzicht auf Qualität und brillante Farben. Lassen Sie bei uns beispielsweise Urlaubsfotos\n                    online entwickeln und erhalten diese innerhalb weniger Tage in bester Qualität direkt nach Hause.\n                    <br/><br/>\n                    Gestalten Sie Ihre <a href=\"http://www.lidl-fotos.at/fotos-entwickeln\" target=\"_blank\">Fotoabzüge</a>,\n                    Ihren <a href=\"http://www.lidl-fotos.at/fotokalender\" target=\"_blank\">Fotokalender</a> oder Ihr <a\n                            href=\"http://www.lidl-fotos.at/hardcover-fotobuch-a4-hoch\" target=\"_blank\">Hardcover Fotobuch</a> schnell und einfach\n                    mit Hilfe der Bestellsoftware, welche Sie natürlich kostenfrei bei uns downloaden können.\n                    Verschönern Sie Ihr <strong>günstiges Fotobuch</strong> zusätzlich mit eigenen Texten, Hintergründen\n                    und abwechslungsreichen Designs. Dank der zahlreichen Formatvorlagen, welche in unserem Fotoservice\n                    hinterlegt sind, gelingt Ihnen die Erstellung im Handumdrehen. Darüber hinaus glänzt dieses durch\n                    Persönlichkeit und Individualität. So erhält Ihr Fotobuch eine persönliche Note und lässt die\n                    Erinnerungen immer wieder neu aufleben. Das Produktportfolio vom Lidl Fotoservice umfasst neben\n                    Fotobüchern auch Fotogeschenke, Fotokalender sowie Fotoleinwände. Unsere Leinwände erhalten Sie auch\n                    hinter Acryl-Glas oder auf hochwertigen Forex-Platten.\n                    <br/><br/>\n                    Sichern Sie sich jetzt unseren <strong>attraktiven Gutschein</strong> für den Lidl Fotoservice.\n                    Geben Sie den Gutscheincode an der vorgegebenen Stelle im Bestellprozess ein und sparen Sie bares\n                    Geld während unseren Fotoaktionen. Schauen Sie jetzt direkt auf Lidl Fotos vorbei und überzeugen Sie\n                    sich von der vielfältigen Auswahl an Fotogeschenken, Fotobücher und Fotokalender. Und denken Sie\n                    daran den Gutschein während des Bestellprozesses direkt bei unserem Fotoservice einzulösen. Lidl\n                    Fotos sorgt für günstige und kreative Fotogeschenke.</p>\n            </section>\n    </section>\n\n    <footer>\n        <ul>\n            <li><a href=\"http://www.lidl-fotos.at/cmImprint.do\" class=\"blank\">Impressum</a></li>\n            <li><a href=\"http://www.lidl-fotos.at/cmPrivacyPolicy.do\" class=\"blank\">Datenschutz</a></li>\n        </ul>\n    </footer>\n\n</div>\n\n<script src=\"http://lidlretargeting.adspirit.de/adrtpiggy.php?pid=43&type=1\" type=\"text/javascript\" language=\"JavaScript\"></script>\n<noscript><iframe width=\"1\" height=\"2\" noresize=\"noresize\" scrolling=\"no\"\n                  frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"\n                  src=\"http://lidlretargeting.adspirit.de/adrtpiggy.php?pid=43&type=2\"\n                  ALLOWTRANSPARENCY=\"true\"></iframe></noscript>\n<!-- Google Tag Manager -->\n<noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-NJJRL4\"\n                  height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NJJRL4');</script>\n<!-- End Google Tag Manager -->\n</body>\n</html>\n",
+					"file": "/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.at/aktion1/htdocs/index.html",
+					"file_size": 8988,
+					"file_write_time": 131381805600000000,
+					"settings":
+					{
+						"buffer_size": 8934,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "lo",
+				"selected_items":
+				[
+					[
+						"lo",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"lore",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"hash",
+						"Hasher: SHA256"
+					],
+					[
+						"lorem",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"markdown",
+						"Build With: Markdown"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"ur",
+						"URL Decode"
+					],
+					[
+						"url",
+						"URL Encode"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prett",
+						"HTMLPrettify: Set Prettify Preferences"
+					],
+					[
+						"sha",
+						"Hasher: SHA256"
+					],
+					[
+						"hasher",
+						"Hasher: SHA256"
+					],
+					[
+						"gen",
+						"Generate long password"
+					],
+					[
+						"lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"p",
+						"Package Control: Remove Package"
+					],
+					[
+						"colo",
+						"Colorsublime: Browse Themes"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"encode",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Discover Packages"
+					]
+				],
+				"width": 471.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/schuergk/Desktop/sf_reisen_com_2017-04-24.sql",
+				"/Users/schuergk/Downloads/README.md",
+				"/Users/schuergk/Projekte/it-comsys/docker-compose.yml",
+				"/Users/schuergk/Projekte/it-comsys/data/database-dump/app_2017-04-10.sql",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.md",
+				"/Users/schuergk/Desktop/Vergleich_Bolt_Sulu.txt",
+				"/Users/schuergk/Projekte/contao/README.md",
+				"/Volumes/bizhub_C3850_10910101011/Readme/german.txt",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.at/aktion1/htdocs/index.html",
+				"/Users/schuergk/Projekte/contao/docker-compose.yml",
+				"/Users/schuergk/Projekte/contao/web/app_dev.php",
+				"/Users/schuergk/Projekte/contao/docker-sync.yml",
+				"/Users/schuergk/Projekte/contao/docker-config/Dockerfile-php",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/aktion1/htdocs/index.html",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/gutschein/htdocs/index.html",
+				"/Users/schuergk/Projekte/backup/sonstiges/e-mail-templates/kunden-kommunikation-shop/html/kkm_template_abholauftrag_spedition.html",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Backend/tinymce.html.twig",
+				"/Users/schuergk/Desktop/intranet-master.lidl.net.crt",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/index.php",
+				"/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/kooperations-upload/htdocs/upload.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/StaticContentType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Resources/views/Lottery/edit.html.twig",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/LotteryConfigurationManagerType.php",
+				"/Users/schuergk/Projekte/backup/lottery/src/Lidl/LotteryBundle/Form/ContentType.php",
+				"/Users/schuergk/Desktop/pwd.html",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/new.html.twig",
+				"/Users/schuergk/Projekte/itcs/src/AppBundle/Form/TemplateType.php",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/index.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/help.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/template/edit.html.twig",
+				"/Users/schuergk/Projekte/itcs/app/Resources/views/base.html.twig",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/Users/schuergk/Projekte/it-comsys/README.md",
+				"/Users/schuergk/Projekte/itcs/app/config/parameters.yml",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/normal_iframe_inxmail/index 2.html",
+				"/Users/schuergk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/multiplechoice_iframe/index.html",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/backup/aurasma_mobile_normal/index.html",
+				"/Users/schuergk/Desktop/lottery_frontend_2017-03-13.sql",
+				"/Users/schuergk/Desktop/app_2017-03-09.sql",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/etc/pki/tls/cert.pem",
+				"/Users/schuergk/Desktop/punkte_zwischenzeugnis.txt",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/app/config/security.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-sync.yml",
+				"/Users/schuergk/Projekte/lidl-reisen-cms/cms/docker-compose.yml",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/index.html",
+				"/Users/schuergk/Desktop/lidl_gws_aegypten_v2/index_test.html",
+				"/Users/schuergk/Desktop/lidl-gewinnspiel-neu/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/php/lottery.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/87fb6fd1-cf50-4056-8818-026b8844cdb7/data/www/lidl-gewinnspiel/htdocs/cronjob/lotteryTransferDataTest.php",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/reisen/php/recaptcha.php",
+				"/Users/schuergk/Desktop/ATT69457.htaccess",
+				"/Users/schuergk/Desktop/ATT26776.htaccess",
+				"/Users/schuergk/Desktop/lidl-email-font-demo-async.css",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2014/2014_10_Bewertung/template/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/index.html",
+				"/Volumes/WEBPRINT/Lidl Gewinnspiel DE/2017/2017_03_Bewertung/readme.md",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/reisenbewertung/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/index.html",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htpasswd",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc/.htaccess",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/1558e817-d466-468f-a856-ad65f65d9784/data/www/lidl-gewinnspiel.de/htdocs/8xW7ThmcNJQCB4Y2Uv0f/.htaccess",
+				"/Users/schuergk/Projekte/newsletter-forms-int/Vagrantfile",
+				"/Users/schuergk/Projekte/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/lottery/Vagrantfile",
+				"/Users/schuergk/Projekte/lidl-gewinnspiel/Vagrantfile",
+				"/Users/schuergk/Projekte/symfony-newsletter-forms/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-subscription-form/Vagrantfile",
+				"/Users/schuergk/Projekte/backup/newsletter-generator/Vagrantfile",
+				"/Users/schuergk/Projekte/marketingtools/www/vendor/pdepend/pdepend/Vagrantfile",
+				"/Users/schuergk/Projekte/inxmail-api-examples/Vagrantfile",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/d450964d-d1f2-4065-94b9-fd941597935b/data/www/lidl-gewinnspiel.de/htdocs/js/gewinnspiel.js",
+				"/Users/schuergk/.Trash/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/schuergk/Desktop/NL17Q1.csv",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/js/demo.js",
+				"/private/var/folders/1h/zd7df94931d733m42p9gqrm80000gp/T/81678ecc-fa31-4cbb-8df5-0293661ff8ac/data/www/onlinemarketing/current/src/Lidl/StartupBundle/Resources/public/css/startup.css"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"&#123;"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n",
+					"h3",
+					"h4",
+					"h2",
+					"h3",
+					"h4",
+					"(default\\('{{ )(.*?)( }}'\\))",
+					"(default\\('{{)(.*?)(}}'\\))",
+					"(default\\('{{)",
+					"(default\\(\\'{{)",
+					"(default\\(\\'\\{\\{)",
+					"(\\|default\\(\\'\\{\\{)",
+					"|default\\(\\'{{",
+					"|default(\\'{{",
+					"|default('{{",
+					"(\\|default\\(\\'\\{\\{)(.*?)(\\}\\}\\'\\))",
+					"(\\|default\\(\\'\\{\\{ )(.*?)( \\}\\}\\'\\))",
+					"(|default\\(\\'{{ )(.*?)( }}\\'\\))",
+					"container",
+					"Variable",
+					"default",
+					"{% if mailingTemplate.(.*?) is not defined %}{% verbatim %}{{ mailingTemplate.(.*?) }}{% endverbatim %}{% else %}{{ mailingTemplate.(.*?) }}{% endif %}",
+					"startTime",
+					"mailTemplate",
+					"mailingTemplate",
+					".jiraLink",
+					"mailTemplate",
+					"{{ (.*?) }}",
+					"{{",
+					"}",
+					"{",
+					"{{",
+					"&nbsp;",
+					"}}",
+					"{{",
+					"citrix",
+					"proxy",
+					"section"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"$1example$3",
+					"$1example",
+					"$1example$3",
+					"{{ mailingTemplate.$1|default('{{ $1 }}') }}",
+					"{% if $1 is not defined %}{% verbatim %}{{ $1 }}{% endverbatim %}{% else %}{{ $1 }}{% endif %}",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/gutschein/htdocs/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8933,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2912,
+										2912
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 615.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.de/aktion1/htdocs/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4980,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2908,
+										2908
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 498.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/private/var/folders/pt/rdjlbyts7gj5c68w6gc57jp00000gp/T/8a2c9f11-cc13-4e37-aa32-e0e9578ffcc3/data/www/lidl-fotos.at/aktion1/htdocs/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8934,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2741,
+										2741
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 607.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 102.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 544 1440 873 0 0 2560 1417 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 35,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

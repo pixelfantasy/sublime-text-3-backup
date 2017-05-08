@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Clipboard Manager",
+		"CSS3",
+		"DocBlockr",
+		"FileDiffs",
+		"Generate Password",
+		"Hasher",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Indent XML",
+		"jQuery",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"StripHTML",
+		"Theme - Soda",
+		"Theme - SoDaReloaded",
+		"URLEncode"
+	]
+}
